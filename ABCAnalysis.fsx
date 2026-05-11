@@ -14,7 +14,10 @@ open System.IO
 4 4byte unknown
 5 4byte unknown
 6 4byte enteryCount
-7 4byte unk5
+
+4个unknown连在一起是这样：
+00004442 00004040 00008040 00002842
+4442中44是字号，42似乎是某种特效选项；4040和8040编辑后没有变化；2842可能是特殊情况下的字号（假名标注吗？）
 
 entryCount * uint16 过滤非0结果得到glyphCount
 
