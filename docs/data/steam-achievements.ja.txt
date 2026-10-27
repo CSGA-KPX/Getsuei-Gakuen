@@ -1,0 +1,165 @@
+
+全てはここから
+初めて月英学園を訪れた
+85.0%
+ACHIEVEMENT_1_1
+
+愚直な探求者
+オプションで設定を変更した
+61.4%
+ACHIEVEMENT_1_29
+
+書斎の訪問者
+初めて開放の間を訪れた
+59.1%
+ACHIEVEMENT_1_25
+
+至福の刻
+長い時間を学園で過ごした
+24.4%
+ACHIEVEMENT_1_33
+
+輪廻の輪の中
+Hidden achievement: ルルから励まされた
+19.7%
+ACHIEVEMENT_1_5
+
+学園の支配者
+Hidden achievement: 後堂が生徒会長を襲名してしまった
+18.5%
+ACHIEVEMENT_1_8
+
+刻の超越者
+Hidden achievement: シーンバック機能を使った
+16.5%
+ACHIEVEMENT_1_32
+
+書斎の漂流者
+Hidden achievement: 開放の間の本棚が半分埋まった
+16.4%
+ACHIEVEMENT_1_26
+
+守られた約束
+Hidden achievement: 英理を救う事ができた
+15.1%
+ACHIEVEMENT_1_2
+
+届かない声
+Hidden achievement: 雄喜はハザードになってしまった
+14.7%
+ACHIEVEMENT_1_4
+
+遅れてきた者
+Hidden achievement: 生き残ったのは大河ではなかった
+14.6%
+ACHIEVEMENT_1_3
+
+千尋の谷
+Hidden achievement: 甘やかすのは良くない
+14.5%
+ACHIEVEMENT_1_31
+
+姉妹の絆
+Hidden achievement: さつきと明を救う事ができた
+14.0%
+ACHIEVEMENT_1_6
+
+素敵な思い出
+Hidden achievement: いずみを救う事ができなかった
+13.9%
+ACHIEVEMENT_1_9
+
+久遠の契り
+Hidden achievement: 律に告白された
+13.6%
+ACHIEVEMENT_1_7
+
+独りだけの宣戦布告
+Hidden achievement: コウの過去を知る事ができた
+12.9%
+ACHIEVEMENT_1_10
+
+嗜好の譜面
+Hidden achievement: BGM鑑賞を開放した
+12.7%
+ACHIEVEMENT_1_17
+
+情報の蒐集者
+Hidden achievement: 10人の事を深く理解した
+12.7%
+ACHIEVEMENT_1_23
+
+俺の名は…
+Hidden achievement: 浩の戦いはこれからだ
+12.6%
+ACHIEVEMENT_1_11
+
+束の間の休息
+Hidden achievement: 猫の仕草に癒された
+10.5%
+ACHIEVEMENT_1_30
+
+闇の蜃気楼
+Hidden achievement: おまけを遊び尽くした
+8.1%
+ACHIEVEMENT_1_28
+
+次元の境界
+Hidden achievement: 楽園は見えると信じていた
+6.9%
+ACHIEVEMENT_1_13
+
+お前は杉田（おれ）か
+Hidden achievement: ある御方と同じ行動を取った
+5.8%
+ACHIEVEMENT_1_22
+
+情報の熱狂者
+全ての人を深く理解した
+5.6%
+ACHIEVEMENT_1_24
+
+至高の交響曲
+Hidden achievement: 全てのBGMを聴いた
+5.6%
+ACHIEVEMENT_1_18
+
+知識の深淵
+全ての知識を手に入れた
+5.0%
+ACHIEVEMENT_1_12
+
+姿無き観測者
+Hidden achievement: ここ最近姿を見かけない
+4.3%
+ACHIEVEMENT_1_19
+
+明けの明星
+Hidden achievement: とっても良い色艶
+4.3%
+ACHIEVEMENT_1_20
+
+書斎の管理者
+Hidden achievement: 開放の間の本棚が全て埋まった
+4.1%
+ACHIEVEMENT_1_27
+
+外道淫
+Hidden achievement: トイレに愛着を感じた
+3.9%
+ACHIEVEMENT_1_14
+
+究極の愛
+Hidden achievement: 男女の区別も差別も無し
+3.9%
+ACHIEVEMENT_1_21
+
+久遠院美術館
+全てのCGを観賞した
+3.8%
+ACHIEVEMENT_1_16
+
+紙上の梁山泊
+Hidden achievement: 全てのおまけCGを見た
+3.8%
+ACHIEVEMENT_1_15
